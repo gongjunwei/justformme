@@ -1,0 +1,284 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wrapper{background: #E5EBF3 url(../images/wrapper-platform-repeat.jpg) repeat-x center top;}
+.introInner-right-border,.introInner-top,.introInner{background:none;}
+.list-content{background:none; padding-top: 33px; }
+.ui-tab{width: 965px; height: 43px; }
+.ui-tab li{width: 142px; height:43px; color: #000000; margin-right: 12px; float: left; text-indent: -9999px; cursor: pointer;}
+.ui-tab li a{width: 142px; height: 43px; color: #000000; display: block;}
+.ui-tab .more{width: 142px; height: 43px; display: block;}
+.ui-tab .on_bg0{background:url(../images/rom_button.png) no-repeat -285px  -183px;}
+.ui-tab .more:hover{background:url(../images/rom_button.png) no-repeat -438px  -183px;}
+.ui-tab .on_bg1{background:url(../images/rom_button.png) no-repeat -591px  -183px;}
+.ui-tab .on_bg2{background:url(../images/developer_button.png) no-repeat -158px  -99px;}
+.ui-tab .off_bg10,.ui-tab .off_bg20,.ui-tab .off_bg30{background:url(../images/rom_button.png) no-repeat -285px  -122px;}
+.ui-tab .off_bg10 a{background:url(../images/rom_button.png) no-repeat -285px  -122px;width: 142px; height: 43px; display: block;}
+.ui-tab .off_bg10 a:hover{background:url(../images/rom_button.png) no-repeat -285px  -183px;width: 142px; height: 43px; display: block;}
+.ui-tab .off_bg32 a{width: 142px; height: 43px; display: block;background:url(../images/developer_button.png) no-repeat 0px  -99px;}
+.ui-tab .off_bg32 a:hover{background:url(../images/developer_button.png) no-repeat -158px  -99px;}
+.ui-tab .off_bg20 a{width: 142px; height: 43px; display: block;background:url(../images/rom_button.png) no-repeat -591px  -122px;}
+.ui-tab .off_bg20 a:hover{background:url(../images/rom_button.png) no-repeat -591px  -183px;}
+.ui-tab .more{background:url(../images/rom_button.png) no-repeat -438px  -122px;}
+.ui-tab .off_bg01,.ui-tab .off_bg21,.ui-tab .off_bg31{background:url(../images/rom_button.png) no-repeat -591px  -122px;}
+.ui-tab .off_bg02,.ui-tab .off_bg12,.ui-tab .off_bg32{margin-right:0;background:url(../images/rom_button.png) no-repeat -744px  -122px;}
+.ui-sub{padding-top:30px; padding-right: 20px; padding-bottom: 0px;}
+.System-intr h1{font-size: 26px; font-family: "微软雅黑"; color: #000000; height: 38px; line-height: 10px;}
+.System-intr hs{font-size: 14px; font-family: "微软雅黑"; color: #000000;}
+.System-intr i strong{font-size: 12px; font-family: "微软雅黑"; color: #000000; width: 893px; line-height: 10px; 
+height: 48px; display: block;border-bottom: 1px solid #e3e3e3; margin-bottom: 15px;}
+.System-intr p{overflow:hidden;font-size: 12px; font-family: "微软雅黑"; color: #000000; margin-bottom: 24px; width: 628px; height:90px; line-height: 18px;}
+.System-intr p.part1{font-size: 12px; font-family: "微软雅黑"; color: #3193e9; line-height: 38px}
+.System-intr li{float:left; padding:24px 0px 12px 16px;}
+
+
+
+.System-intr h3{text-indent:-999em;width: 123px; height: 38px; background:url(../images/share-pic.png) no-repeat left top;}
+.System-intr .movie-img{cursor:pointer;width: 123px; height: 96px;display: block; background:url(../images/movie-system-intr.png) no-repeat -9px -4px;}
+.System-intr{padding-left:30px;background:url(../images/System-intr-bg.jpg) no-repeat 639px 45px;}
+.introdutoggle{overflow: hidden;}
+.SystemLeftsidepar{ width: 734px;float: left; }
+.list-item-wrap{overflow: hidden;}
+.pagination-atv{display: none; width: 734px; padding-top:29px; height: 30px; background:url(../images/pagination-atv-bg.jpg) no-repeat left top;}
+.pagination-atv a:hover{width: 30px; height: 30px; text-align:center; line-height:30px; display: inline-block; background:url(../images/rom_button.png) no-repeat -680px -51px;color: #3193e9;}
+.pagination-atv a{width: 30px; height: 30px;line-height:30px; display: block; float: left; margin-right:2px;text-align:center; font-family: '微软雅黑'; color: #4d4d4d; font-size: 14px;}
+.pagination-atv #prev{width:74px; height: 28px; display: inline-block; background:url(../images/rom_button.png) no-repeat -501px -87px;}
+.pagination-atv #prev:hover{width:74px; height: 28px; display: inline-block; background:url(../images/rom_button.png) no-repeat -501px -52px;}
+.pagination-atv #next{width:74px; height: 28px; display: inline-block;background:url(../images/rom_button.png) no-repeat -591px -87px;}
+.pagination-atv #next:hover{width:74px; height: 28px; display: inline-block; background:url(../images/rom_button.png) no-repeat -591px -52px;}
+.NewsActivity .pagination-atv .pagination-inner{margin:0 auto; width: 550px;}
+.NewsActivity .pagination-atv{background:url(../images/pagination-news.jpg) no-repeat left top; width: 965px;}
+
+
+
+
+
+
+.SystemRightsidepar{width: 200px;float: left; padding-top: 22px;}
+.rhtctntop-left{background:url(../images/fillet-top-left.png) no-repeat left top;}
+.rhtctntop-right{background:url(../images/fillet-top-right.png) no-repeat right top;}
+.rhtctnbot-left{background:url(../images/fillet-bot-left.png) no-repeat left bottom;}
+.rhtctnbot-right{width:200px; padding-top:13px;background:url(../images/fillet-bot-right.png) no-repeat right bottom;}
+.rhtctncontent-top{background:url(../images/rhtctncontent.jpg) repeat-x 0 0;}
+.rhtctncross-left{background:url(../images/rhtctncross.jpg) repeat-y 0 0;}
+.rhtctncontent-bottom{background:url(../images/rhtctncontent.jpg) repeat-x 0 bottom;}
+.rhtctncross-right{background:url(../images/rhtctncross.jpg) repeat-y right 0;}
+.rom-load-wrap{padding:0 9px;}
+.rom-load-btn{width:181px; height:40px; display:block; text-indent:-9999px;background:url(../images/rom_button.png) no-repeat 0 -123px; }
+.Application h3{font-size: 12px; color: #4d4d4d; font-family: "微软雅黑"; font-weight: normal; height: 38px; line-height: 38px; text-align: center;}
+.Application{margin-bottom: 14px; background:#fafafa;}
+
+.Rombbs .rom-icon-wrap{width: 117px; padding-left:80px; height: 75px; background:url(../images/rom-icon.png) no-repeat 12px; top;}
+.Rombbs .rom-icon-wrap h2{font-size: 12px; color: #4d4d4d; font-family: "微软雅黑"; font-weight: normal; height: 22px; line-height: 22px;}
+.Rombbs .rom-icon-wrap h3{font-size: 18px; color: #4d4d4d; font-family: "微软雅黑"; font-weight: normal; height: 34px; line-height: 34px;}
+.Rombbs{margin-bottom: 14px;background:#fafafa;}
+
+
+.weibo .rhtctnbot-right{padding-left:12px;width:188px; padding-top:13px;background:url(../images/fillet-bot-right.png) no-repeat right bottom;}
+.weibo .rom-icon-wrap{width: 115px; padding-left:68px; height: 75px; background:url(../images/rom_button.png) no-repeat -745px top;}
+.weibo .rom-icon-wrap h2{font-size: 12px; color: #4d4d4d; font-family: "微软雅黑"; font-weight: normal; height: 22px; line-height: 22px;}
+.weibo .rom-icon-wrap h3{font-size: 18px; color: #4d4d4d; font-family: "微软雅黑"; font-weight: normal; height: 34px; line-height: 34px;}
+.weibo {margin-bottom: 14px;background:#fafafa;}
+
+.Share .rhtctnbot-right{width:200px; padding-top:0px;background:url(../images/fillet-bot-right.png) no-repeat right bottom; text-align: center;}
+.Share .rom-icon-wrap{padding:16px;}
+.Share .rom-icon-wrap h2{font-size: 18px; color: #4d4d4d; font-family: "微软雅黑"; font-weight: normal; height: 28px; line-height: 28px;}
+.Share .rom-icon-wrap h3{font-size: 12px; color: #999999; font-family: "微软雅黑"; font-weight: normal; height: 18px; line-height: 18px;}
+.Share {margin-bottom: 14px;background:#fafafa; display: none;}
+.Share .movie{padding-top:14px; }
+.Share .movie-img-bg{padding-bottom:8px; width: 165px; height: 126px; display: block; background:url(../images/rom_button.png) no-repeat -149px -498px;}
+.xinlang{width: 144px; height: 39px; margin:0 auto; padding-top: 18px;}
+.xinlang-share{width: 144px; height: 39px; display: block; background:url(../images/rom_button.png) no-repeat -593px top;}
+
+
+.list-item  h2{font-size: 19px; color: #4d4d4d; font-family: "微软雅黑"; font-weight: normal; height: 30px; line-height: 30px;}
+.list-item  h3{font-size: 12px; color: #4d4d4d; font-family: "微软雅黑"; font-weight: normal; height: 26px; line-height: 26px; overflow: hidden;}
+.list-item  p{font-size: 12px; padding-bottom:10px; color: #999999; font-family: "微软雅黑"; font-weight: normal; height: 85px; line-height: 22px; overflow: hidden;}
+.list-item {margin-bottom: 14px; background:none;width: 244px; height:auto; display: block; float: left; margin-right: -5px; line-height: normal; }
+.list-item .list-item-img{width: 209px;  padding-bottom:10px; height: 165px; background:url(../images/list-item-img.jpg) no-repeat left top; margin:0 auto;}
+.list-item .more{line-height: 28px; height: 28px; width: 75px; text-indent: -9999px; display: block; background:url(../images/rom_button.png) no-repeat -418px -87px;}
+
+
+.list-item-over h2{font-size: 19px; color: #3193E9; font-family: "微软雅黑"; font-weight: normal; height: 30px; line-height: 30px;}
+.list-item-over h3{font-size: 12px; color: #4d4d4d; font-family: "微软雅黑"; font-weight: normal; height: 26px; line-height: 26px;}
+.list-item-over p{font-size: 12px; padding-bottom:10px; color: #4d4d4d; font-family: "微软雅黑"; font-weight: normal; height: 85px; line-height: 22px; overflow: hidden;}
+.list-item-over {margin-bottom: 14px;background:none;width: 244px; height:auto;	 float: left; margin-right: -5px; }
+.list-item-over .list-item-img{width: 209px;  padding-bottom:10px; height: 165px; background:url(../images/list-item-img.jpg) no-repeat left top; margin:0 auto;}
+.list-item-over .more{line-height: 28px; height: 28px; width: 75px; text-indent: -9999px; display: block; background:url(../images/rom_button.png) no-repeat -418px -50px;}
+
+.NewsActivity .news-list-item{overflow: hidden; padding:0 0 46px; width: 945px;}
+.news-list-item .img-wrap{width: 209px; padding:0 16px; height: 165px; background:url(../images/list-item-img.jpg) no-repeat 16px top; float: left;}
+.news-list-item .news-content{float: left; width: 672px; padding-right:16px; padding-left:16px;}
+.news-list-item .news-content h1{font-size: 20px; color: #4d4d4d; font-family: "微软雅黑"; line-height: 48px; height: 48px;}
+.news-list-item .news-content span{font-size: 12px; color: #4d4d4d; font-family: "微软雅黑"; line-height: 24px; height: 24px; display: block;}
+.news-list-item .news-content p{font-size: 12px; color: #999999; font-family: "微软雅黑"; line-height: 24px; height: 50px;}
+.news-list-item .news-content .more{line-height: 28px; height: 28px; width: 75px; text-indent: -9999px; display: block; background:url(../images/rom_button.png) no-repeat -418px -87px;}
+.news-list-item .news-content .more:hover{line-height: 28px; height: 28px; width: 75px; text-indent: -9999px; display: block; background:url(../images/rom_button.png) no-repeat -418px -50px;}
+.NewsActivity .top-bg{background:url(../images/pagination-news.jpg) no-repeat left top; padding:46px 0;}
+/*
+.Common-problem{}
+.rom-problem-wrap{width: 174px; padding:0 13px;}
+.rom-problem-wrap h2{font-size: 18px; padding-left:0px; color: #4d4d4d; font-family: "微软雅黑"; font-weight: normal; height: 34px; line-height: 34px;}
+.rom-problem-wrap ul li{width: 174px;  font-size: 12px; padding-left:0px; color: #999999; font-family: "微软雅黑";
+ font-weight: normal;  border-bottom:1px solid #999999; margin-top: 13px; padding-bottom: 5px;}
+.rom-problem-wrap ul li a{line-height: 18px; color: #999999;}
+.rom-problem-wrap ul li a:hover{text-decoration: underline;color: #4d4d4d;}
+.rom-problem-wrap ul li.last-bbs{border:none; padding-bottom: 15px;}*/
+.platform_nr{width: 965px; overflow: hidden;background:url(../images/pagination-news.jpg) no-repeat left 118px;}
+.list_top{width: 712px; padding:30px 140px 0px 113px;height: 88px; overflow: hidden; text-align: center;}
+.list_top h1{font-size: 24px; font-family: "微软雅黑"; color: #3f3f3f; height: 28px; line-height: 28px;}
+.list_top span{color: #999999; font-size: 14px; font-family: "微软雅黑";}
+.list_cen {width: 712px; padding:0 140px 0px 113px;overflow: hidden; min-height:400px;overflow: hidden; padding-top: 50px;}
+.list_cen p{height: auto; margin-bottom: 25px;}
+.list_cen h3{color: #999999; font-size: 20px; font-family: "微软雅黑"; font-weight: normal; height: 28px; line-height: 28px;}
+.list_cen h5{color: #999999; font-size: 14px; font-family: "微软雅黑"; font-weight: normal;height: 22px; line-height: 22px;}
+*html .list_cen{width: 712px; padding:0 140px 0px 113px;overflow: hidden; height:400px;overflow-x: hidden; overflow-y:visible;}
+.txt-inro{font-style:normal;}
+.intro{background: url(../images/content-list-top-bg.png) no-repeat left top; padding-top: 5px; padding-bottom: 0;}
+.intro-topic{width: 1000px; overflow: hidden; background:#ffffff url(../images/all-phone-list_top_bg.png) no-repeat left -5px;}
+.intro-bot{background:url(../images/all-phone-list_bot_bg.png) no-repeat left top; height: 5px; padding-bottom:20px;}
+
+.list-item .list-pro-top{
+	padding:0 7px;
+	background:url(../images/frame.png) no-repeat -999em 0px;
+	position: relative;
+	height:7px;
+}
+
+.list-item .list-pro-top .rt-angle{
+	position: absolute;
+	top:0;
+	right: 0;
+	background:url(../images/frame.png) no-repeat -999em -999em;
+	width:7px;
+	height:7px;
+	overflow: hidden;
+}
+.list-item .list-pro-top .ctx{
+	background:url(../images/frame.png) repeat-x -999em -999em;
+	display: block;
+	height: 7px;
+	overflow: hidden;
+}
+
+
+.list-item .list-pro-bot{
+	padding:0 7px;
+	background:url(../images/frame.png) no-repeat -999em 0px;
+	position: relative;
+	height:7px;
+}
+
+.list-item .list-pro-bot .rt-angle{
+	position: absolute;
+	top:0;
+	right: 0;
+	background:url(../images/frame.png) no-repeat -999em 0px;
+	width:7px;
+	height:7px;
+
+}
+.list-item .list-pro-bot .ctx{
+	background:url(../images/frame.png) repeat-x -999em -999em;
+	display: block;
+	height: 7px;
+	overflow: hidden;
+}
+
+.list-item .list-pro-txt{
+	padding:15px 10px 30px;
+    overflow: hidden;
+	border-left:1px solid transparent;
+	border-right:1px solid transparent;
+	_border-color:#ffffff;
+    filter:Chroma(Color="#ffffff");
+}
+.list-item{
+	position: relative;
+}
+.list-item .list-item-new{
+	width:32px;
+	height:33px;
+	display: block;
+    position: absolute;
+    right:6px;
+    top:10px;
+    background: url(../images/list-item-news.png) no-repeat left top;
+    _background: url(../images/list-item-news-ie6.png) no-repeat left top;
+}
+
+.list-item-over .list-pro-top{
+	background-position: 0 -20px;
+}
+.list-item-over .list-pro-top .rt-angle{
+	background-position: 0 -30px;
+}
+.list-item-over .list-pro-top .ctx{
+	background-position: 0 0;
+}
+.list-item-over .list-pro-bot{
+	background-position: 0 -40px;
+}
+.list-item-over .list-pro-bot .rt-angle{
+	background-position: 0 -50px;
+}
+.list-item-over .list-pro-bot .ctx{
+	background-position: 0 -10px;
+}
+
+.list-item-over .list-pro-txt{
+
+	background:#fafafa;
+	border-left:1px solid #e3e3e3;
+	border-right:1px solid #e3e3e3;
+
+}
+
+
+.plt-btn .plt-link{
+	background:url(../images/rom_button.png) no-repeat -285px -122px;
+	width: 142px;
+	height:43px;
+	display: block;
+}
+.cha-btn .cha-link{
+	background:url(../images/rom_button.png) no-repeat -438px -122px;
+	width: 142px;
+	height:43px;
+	display: block;
+}
+.act-btn .act-link{
+	background:url(../images/rom_button.png) no-repeat -591px -122px;
+	width: 142px;
+	height:43px;
+	display: block;
+}
+.news-btn .news-link{
+	background:url(../images/developer_button.png) no-repeat 0px -99px;
+	width: 142px;
+	height:43px;
+	display: block;
+}
+
+.select .plt-link,.plt-btn .plt-link:hover{
+	background-position:-285px -183px;
+}
+.select .cha-link,.cha-btn .cha-link:hover{
+	background-position:-438px -183px;
+}
+.select .act-link,.act-btn .act-link:hover{
+	background-position:-591px -183px;
+}
+.select .news-link,.news-btn .news-link:hover{
+	background-position:-158px -99px;
+}
+.clearfix{
+	display: block;
+}
+.clearfix::after{
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
